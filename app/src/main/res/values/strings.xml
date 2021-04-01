@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">EventDemo</string>
+    <string name="handler">handler携带实体类</string>
+    <string name="handler_json">handler携带json</string>
+    <string name="handler_memory_leak">handler对内泄漏的处理</string>
 </resources>
